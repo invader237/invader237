@@ -46,3 +46,4 @@ I've been passionate about technology since I was a kid, and I'm currently in my
   />
 </div>
 
+📌 Currently doing an internship and on a fixed-term contract at Sogeti Luxembourg

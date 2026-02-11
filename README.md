@@ -51,4 +51,9 @@ I've been passionate about technology since I was a kid, and I'm currently in my
   />
 </div>
 
-📌 **Actively looking for a 4-month full-stack development internship starting late February.**
+## 🌐 Portfolio
+
+* 🔗 [**Portfolio Website**](https://trivino.info)
+* 🔗 [**Portfolio Repository**](https://github.com/invader237/Portfolio)
+
+A personal portfolio.

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Invader237
 
-I've been passionate about technology since I was a kid, and I'm currently in my second year of Computer Science studies. I enjoy exploring everything related to IT. I'm still learning every day, and I'm excited to keep going.
+I've been passionate about technology since I was a kid, and I'm currently in my third year of Computer Science studies. I enjoy exploring everything related to IT. I'm still learning every day, and I'm excited to keep going.
 
 # 🧰 Tech Stack
 

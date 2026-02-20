@@ -33,6 +33,7 @@ I've been passionate about technology since I was a kid, and I'm currently in my
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%2300599C.svg?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 
 > 📝 *List above not ordered by skill — just tools I've used and currently use.*
 

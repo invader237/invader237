@@ -58,3 +58,5 @@ I've been passionate about technology since I was a kid, and I'm currently in my
 * 🔗 [**Portfolio Repository**](https://github.com/invader237/Portfolio)
 
 A personal portfolio.
+
+📌 Currently doing an internship at Sogeti Luxembourg
